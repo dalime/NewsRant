@@ -47,7 +47,7 @@
     "font-awesome-loader": "^1.0.0",
     "imports-loader": "^0.6.5",
     "jquery": "^3.1.0",
-    "mongoose": "^4.5.9",
+    "mongoose": "^4.13.21",
     "morgan": "^1.7.0",
     "newrelic": "^5.0.0",
     "node-sass": "^3.8.0",
